@@ -1,0 +1,19 @@
+.container{
+  margin: 20px 1px 0 0;
+  width: 99%;
+}
+
+.logo {
+  width: 100px;
+  margin-bottom: 50px;
+}
+
+#top-nav {
+  font-size: 0.8em;
+  padding: 10px;
+  margin-right: 35px;
+}
+
+.nav > li > a {
+  padding: 2px;
+}
