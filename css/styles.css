@@ -33,3 +33,14 @@
 .no-padding {
   padding: 0;
 }
+
+.article-img1 {
+  float: left;
+  margin-right: 10px
+}
+
+.article-img2,
+.article-img3 {
+  float: right; 
+  margin-left: 10px;
+}
