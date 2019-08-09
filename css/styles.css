@@ -8,6 +8,19 @@
   margin-bottom: 50px;
 }
 
+.sidebar > ul {
+  list-style: none;
+  padding: 10px 0;
+  line-height: 20px;
+}
+.sidebar > p {
+  margin: 0;
+}
+
+.sidebar > hr {
+  margin: 0;
+}
+
 #top-nav {
   font-size: 0.8em;
   padding: 10px;
