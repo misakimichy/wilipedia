@@ -17,3 +17,19 @@
 .nav > li > a {
   padding: 2px;
 }
+
+.title {
+  position: absolute;
+  left: 10px;
+}
+.wilipedia-list {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.wilipedia-list ul {
+}
+
+.no-padding {
+  padding: 0;
+}
