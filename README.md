@@ -9,6 +9,7 @@ Misaki Koonce
 
 ## Description
 Main bootstrap components that I used is grid, container, panel, navigation tabs, The links in this page don't link anywhere. Search bar also will not return anything.
+![Screenshot of Wilipedia](/img/screenshot.png)
 
 
 ## Technologies Used
